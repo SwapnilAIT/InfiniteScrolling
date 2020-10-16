@@ -21,7 +21,7 @@ Pod::Spec.new do |s|
 'This pod adds infinite scrolling ability in UICollectionView'.
 DESC
 
-  s.homepage         = 'https://github.com/Vishal-Singh-Panwar/InfiniteScrolling'
+  s.homepage         = 'https://github.com/SwapnilAIT/InfiniteScrolling.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Vishal Singh Panwar' => 'swapnil.khollam@aitglobalinc.com' }
