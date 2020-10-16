@@ -24,8 +24,8 @@ DESC
   s.homepage         = 'https://github.com/Vishal-Singh-Panwar/InfiniteScrolling'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
-  s.author           = { 'Vishal Singh Panwar' => 'vishal.singh030788@gmail.com' }
-  s.source           = { :git => 'https://github.com/Vishal-Singh-Panwar/InfiniteScrolling.git', :tag => s.version.to_s }
+  s.author           = { 'Vishal Singh Panwar' => 'swapniltoo@gmail.com' }
+  s.source           = { :git => 'https://github.com/SwapnilAIT/InfiniteScrolling.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '9.0'
